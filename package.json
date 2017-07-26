@@ -24,7 +24,7 @@
     "@angular/platform-webworker": "^4.0.0",
     "@angular/platform-webworker-dynamic": "^4.0.0",
     "@angular/router": "^4.0.0",
-    "@gund/angular-dropdown-multiselect": "^1.5.14",
+    "@gund/angular-dropdown-multiselect": "^1.5.15",
     "core-js": "^2.4.1",
     "rxjs": "^5.4.1",
     "zone.js": "^0.8.14"
