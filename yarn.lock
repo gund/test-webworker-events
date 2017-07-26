@@ -154,9 +154,9 @@
   dependencies:
     tsickle "^0.21.0"
 
-"@gund/angular-dropdown-multiselect@^1.5.13":
-  version "1.5.13"
-  resolved "https://registry.yarnpkg.com/@gund/angular-dropdown-multiselect/-/angular-dropdown-multiselect-1.5.13.tgz#5926af64cb16567d24a34db282bf420b2933df08"
+"@gund/angular-dropdown-multiselect@^1.5.14":
+  version "1.5.14"
+  resolved "https://registry.yarnpkg.com/@gund/angular-dropdown-multiselect/-/angular-dropdown-multiselect-1.5.14.tgz#e2af2606b83ec078abe4352ca08ee5b12877e0ae"
 
 "@ngtools/json-schema@1.1.0":
   version "1.1.0"
