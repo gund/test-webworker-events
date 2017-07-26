@@ -21,10 +21,6 @@ export class AppComponent {
     selectionLimit: 1,
     autoUnselect: true,
     closeOnSelect: true,
-    searchRenderLimit: 100,
-    searchRenderAfter: 1,
-    searchMaxLimit: 500,
-    searchMaxRenderedItems: 10,
   };
 
   clicked = false;
