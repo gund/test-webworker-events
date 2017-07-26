@@ -21,6 +21,8 @@ export class AppComponent {
     selectionLimit: 1,
     autoUnselect: true,
     closeOnSelect: true,
+    showCheckAll: true,
+    showUncheckAll: true,
   };
 
   clicked = false;

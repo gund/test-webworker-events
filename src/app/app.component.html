@@ -6,6 +6,9 @@
   </ng-template>
 
   <h3 class="mt-5">Clicks that DO NOT work in WebWorker mode</h3>
-  <p class="text-muted"><small>Try to select options in dropdown - clicks there are not getting dispatched by angular</small></p>
+  <p class="text-muted">
+    <small>Try to select options in dropdown - clicks there are not getting dispatched by angular</small><br>
+    <small>But clicks on 'Check all' and 'Uncheck all' are working fine</small>
+  </p>
   <ss-multiselect-dropdown [options]="options" [settings]="settings"></ss-multiselect-dropdown>
 </div>
