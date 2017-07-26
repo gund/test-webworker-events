@@ -1,5 +1,6 @@
-import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
+import { WorkerAppModule } from '@angular/platform-webworker';
+import { MultiselectDropdownModule } from '@gund/angular-dropdown-multiselect';
 
 import { AppComponent } from './app.component';
 
@@ -8,7 +9,8 @@ import { AppComponent } from './app.component';
     AppComponent
   ],
   imports: [
-    BrowserModule
+    WorkerAppModule,
+    MultiselectDropdownModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
